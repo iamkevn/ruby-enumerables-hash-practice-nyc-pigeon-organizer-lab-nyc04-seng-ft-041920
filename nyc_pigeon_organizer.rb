@@ -33,9 +33,9 @@ def nyc_pigeon_organizer(data)
       end
     end
   end
-  
+
 =begin
-  
+
   data.each do |attribute, set_of_attributes|
     set_of_attributes.each do |detail, names|
       names.each do |name|
